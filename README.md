@@ -3,7 +3,7 @@ This is a simple SQL Scanner implemented using Python. It can be used to scan a 
 Installation
 
 1. Clone the repository:
-git clone https://github.com/username/sql-scanner.git
+git clone https://github.com/Dev2409/sql-scanner.git
 2. Install the required dependencies:
 pip install -r requirements.txt
 
